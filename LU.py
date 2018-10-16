@@ -1,8 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Dec  3 10:03:45 2017
-@author: www
-"""
 
 #   python实现LU分解
 
